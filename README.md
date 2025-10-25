@@ -16,66 +16,66 @@ This repository contains meticulously curated documentation and guides designed 
 
 | Guide | Description |
 |-------|-------------|
-| **[MLP and Backpropagation](NLP_Advanced_Training_Docs/4-%20MLP-and-Backpropagation-Guide.pdf)** | Multi-Layer Perceptrons architecture and backpropagation algorithm fundamentals |
-| **[Bias-Variance Tradeoff](NLP_Advanced_Training_Docs/5-%20Bias-Variance-Tradeoff-Guide.pdf)** | Understanding model complexity, overfitting, and underfitting |
-| **[Vanishing Gradient Problem](NLP_Advanced_Training_Docs/6-%20Vanishing-Gradient-Guide.pdf)** | Challenges in training deep networks and mitigation strategies |
-| **[Batch Normalization](NLP_Advanced_Training_Docs/10-%20Batch-Normalization-Guide.pdf)** | Techniques for stabilizing and accelerating neural network training |
+| **[MLP and Backpropagation](4-%20MLP-and-Backpropagation-Guide.pdf)** | Multi-Layer Perceptrons architecture and backpropagation algorithm fundamentals |
+| **[Bias-Variance Tradeoff](5-%20Bias-Variance-Tradeoff-Guide.pdf)** | Understanding model complexity, overfitting, and underfitting |
+| **[Vanishing Gradient Problem](6-%20Vanishing-Gradient-Guide.pdf)** | Challenges in training deep networks and mitigation strategies |
+| **[Batch Normalization](10-%20Batch-Normalization-Guide.pdf)** | Techniques for stabilizing and accelerating neural network training |
 
 ### Computer Vision & CNNs
 
 | Guide | Description |
 |-------|-------------|
-| **[Convolutional Neural Networks](NLP_Advanced_Training_Docs/9-%20CNN-Guide.pdf)** | CNN architectures, convolution operations, and applications |
+| **[Convolutional Neural Networks](9-%20CNN-Guide.pdf)** | CNN architectures, convolution operations, and applications |
 
 ### Sequence Models & Attention Mechanisms
 
 | Guide | Description |
 |-------|-------------|
-| **[Seq2Seq & Attention](NLP_Advanced_Training_Docs/11-%20Seq2Seq-Attention-Guide.pdf)** | Sequence-to-sequence models and attention mechanisms |
-| **[Transformer Architecture](NLP_Advanced_Training_Docs/13-%20Transformer-Attention-Guide.pdf)** | Self-attention, multi-head attention, and transformer models |
+| **[Seq2Seq & Attention](11-%20Seq2Seq-Attention-Guide.pdf)** | Sequence-to-sequence models and attention mechanisms |
+| **[Transformer Architecture](13-%20Transformer-Attention-Guide.pdf)** | Self-attention, multi-head attention, and transformer models |
 
 ### Advanced NLP Techniques
 
 | Guide | Description |
 |-------|-------------|
-| **[Embeddings](NLP_Advanced_Training_Docs/16-%20Embeddings-Guide.pdf)** | Word embeddings, contextual embeddings, and representation learning |
-| **[PEFT (Parameter-Efficient Fine-Tuning)](NLP_Advanced_Training_Docs/15-%20PEFT-Guide.pdf)** | Efficient fine-tuning strategies for large language models |
-| **[Contrastive Representation Learning](NLP_Advanced_Training_Docs/14-%20Contrastive-RepLearn-Guide.pdf)** | Self-supervised learning and contrastive methods |
+| **[Embeddings](16-%20Embeddings-Guide.pdf)** | Word embeddings, contextual embeddings, and representation learning |
+| **[PEFT (Parameter-Efficient Fine-Tuning)](15-%20PEFT-Guide.pdf)** | Efficient fine-tuning strategies for large language models |
+| **[Contrastive Representation Learning](14-%20Contrastive-RepLearn-Guide.pdf)** | Self-supervised learning and contrastive methods |
 
 ### Machine Learning Paradigms
 
 | Guide | Description |
 |-------|-------------|
-| **[Supervised Learning](NLP_Advanced_Training_Docs/17-%20Supervised-Learning-Guide.pdf)** | Classification, regression, and supervised training methodologies |
-| **[Unsupervised Learning](NLP_Advanced_Training_Docs/18-%20Unsupervised-Learning-Guide.pdf)** | Clustering, dimensionality reduction, and unsupervised techniques |
-| **[Semi-Supervised Learning](NLP_Advanced_Training_Docs/19-%20SemiSupervised-Guide.pdf)** | Leveraging labeled and unlabeled data effectively |
+| **[Supervised Learning](17-%20Supervised-Learning-Guide.pdf)** | Classification, regression, and supervised training methodologies |
+| **[Unsupervised Learning](18-%20Unsupervised-Learning-Guide.pdf)** | Clustering, dimensionality reduction, and unsupervised techniques |
+| **[Semi-Supervised Learning](19-%20SemiSupervised-Guide.pdf)** | Leveraging labeled and unlabeled data effectively |
 
 ### Information Retrieval & RAG Systems
 
 | Guide | Description |
 |-------|-------------|
-| **[Information Retrieval Algorithms](NLP_Advanced_Training_Docs/20-%20Information%20Retrieval-Algorithms-Guide.pdf)** | Search algorithms, ranking, and retrieval systems |
-| **[RAG & Knowledge Triples](NLP_Advanced_Training_Docs/21-%20RAG-Triples-Guide.pdf)** | Retrieval-Augmented Generation and knowledge graph integration |
-| **[Graph DB & Hybrid RAG](NLP_Advanced_Training_Docs/22-%20Graph-DB-Hybrid-RAG-Guide.pdf)** | Graph databases and hybrid retrieval architectures |
+| **[Information Retrieval Algorithms](20-%20Information%20Retrieval-Algorithms-Guide.pdf)** | Search algorithms, ranking, and retrieval systems |
+| **[RAG & Knowledge Triples](21-%20RAG-Triples-Guide.pdf)** | Retrieval-Augmented Generation and knowledge graph integration |
+| **[Graph DB & Hybrid RAG](22-%20Graph-DB-Hybrid-RAG-Guide.pdf)** | Graph databases and hybrid retrieval architectures |
 
 ### Recommender Systems
 
 | Guide | Description |
 |-------|-------------|
-| **[Recommender Systems](NLP_Advanced_Training_Docs/12-%20Recommender-Systems-Guide.pdf)** | Collaborative filtering, content-based, and hybrid recommendation approaches |
+| **[Recommender Systems](12-%20Recommender-Systems-Guide.pdf)** | Collaborative filtering, content-based, and hybrid recommendation approaches |
 
 ### Model Evaluation & Testing
 
 | Guide | Description |
 |-------|-------------|
-| **[Model Testing](NLP_Advanced_Training_Docs/7-%20Model-Testing-Guide.pdf)** | Testing strategies, validation techniques, and best practices |
-| **[Evaluation Metrics](NLP_Advanced_Training_Docs/8-%20Evaluation-Metrics-Guide.pdf)** | Comprehensive guide to ML/NLP evaluation metrics |
+| **[Model Testing](7-%20Model-Testing-Guide.pdf)** | Testing strategies, validation techniques, and best practices |
+| **[Evaluation Metrics](8-%20Evaluation-Metrics-Guide.pdf)** | Comprehensive guide to ML/NLP evaluation metrics |
 
 ### Data Annotation
 
 | Guide | Description |
 |-------|-------------|
-| **[Large-Scale Annotation](NLP_Advanced_Training_Docs/23-%20Large-Scale-Annotation.pdf)** | Strategies for efficient large-scale data annotation |
+| **[Large-Scale Annotation](23-%20Large-Scale-Annotation.pdf)** | Strategies for efficient large-scale data annotation |
 
 ## 🎯 Target Audience
 
